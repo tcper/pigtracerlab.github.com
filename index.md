@@ -17,4 +17,5 @@ Here is the blog lists.
   {% endfor %}
 </ul>
 
+![The lab watermark](images/pt.png)
 
